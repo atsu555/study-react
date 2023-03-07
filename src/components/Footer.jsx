@@ -11,6 +11,7 @@ export function Footer() {
         Powered by{' '}
         <img src="/vercel.svg" alt="Vercel" className={classes.logo} />
       </a>
+      {/* dd */}
     </footer>
   )
 }
